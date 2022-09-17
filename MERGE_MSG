@@ -1,0 +1,4 @@
+Merge branch 'new-dog' into master
+
+# Conflicts:
+#	dogs.md
